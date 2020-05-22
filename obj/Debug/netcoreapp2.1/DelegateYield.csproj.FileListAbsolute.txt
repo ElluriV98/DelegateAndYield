@@ -1,0 +1,11 @@
+E:\808121\may19-31\DelegateYield\DelegateYield\bin\Debug\netcoreapp2.1\DelegateYield.deps.json
+E:\808121\may19-31\DelegateYield\DelegateYield\bin\Debug\netcoreapp2.1\DelegateYield.runtimeconfig.json
+E:\808121\may19-31\DelegateYield\DelegateYield\bin\Debug\netcoreapp2.1\DelegateYield.runtimeconfig.dev.json
+E:\808121\may19-31\DelegateYield\DelegateYield\bin\Debug\netcoreapp2.1\DelegateYield.dll
+E:\808121\may19-31\DelegateYield\DelegateYield\bin\Debug\netcoreapp2.1\DelegateYield.pdb
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.csprojAssemblyReference.cache
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.csproj.CoreCompileInputs.cache
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.AssemblyInfoInputs.cache
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.AssemblyInfo.cs
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.dll
+E:\808121\may19-31\DelegateYield\DelegateYield\obj\Debug\netcoreapp2.1\DelegateYield.pdb
